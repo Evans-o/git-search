@@ -1,11 +1,11 @@
-# git-search
-  This website enables users to enter thier GitHub username into a form, submit it, and see names and descriptions of their person's public repositories. A user can also look for repositories
+
 <h1>PROJECT NAME</h1>
 Git-Searh
 <h1>AUTHOR</h1>
 Evans Opindi.
 <h1>DESCRIPTION</h1>
-this webite  takes  a user birthday and calculatethe day of the week they  were born and depending on their gender outputs their Akan-names.
+git-search
+  This website enables users to enter thier GitHub username into a form, submit it, and see names and descriptions of their person's public repositories. A user can also look for repositories
 <h1>PROJECT SET UP INSTRUCTION</h1>
 <p>To open this application,you can use Terminal in your electronic system or you can visit this link to get access to it:https://evans-o.github.io/Akans-name.github.io/
     </p> 
