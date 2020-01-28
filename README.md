@@ -1,6 +1,6 @@
 
 <h1>PROJECT NAME</h1>
-Git-Searh
+GIT-SEARCH
 <h1>AUTHOR</h1>
 Evans Opindi.
 <h1>DESCRIPTION</h1>
