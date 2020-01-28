@@ -6,7 +6,7 @@ Evans Opindi.
 <h1>DESCRIPTION</h1>
 This website enables users to enter thier GitHub username into a form, submit it, and see names and descriptions of their person's public repositories. A user can also look for repositories
 <h1>PROJECT SET UP INSTRUCTION</h1>
-<p>To open this application,you can use Terminal in your electronic system or you can visit this link to get access to it:https://evans-o.github.io/git-search.github.io/
+<p>To open this application,you can use Terminal in your electronic system or you can visit this link to get access to it: https://evans-o.github.io/git-search/.
     </p> 
     <h1>Language used</h1>
     <li>HTML:5</li>
@@ -15,7 +15,7 @@ This website enables users to enter thier GitHub username into a form, submit it
     <li>Css</li>
     <li>Angular</il>
 <h1>Live link.</h1>
-<p>To get into the project visit the following link:https://evans-o.github.io/git-search.github.io/ </p>
+<p>To get into the project visit the following link: https://evans-o.github.io/git-search/. </p>
 <h1>Copyrights (c) evans.</h1>.
 <p>This website and its content is a copyright of [Portfolio].All right reserved.</p>
 <p>Any redistribution or reproduction of part or all content in any form  is prohibited other than the following:
