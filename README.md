@@ -4,7 +4,7 @@ GIT-SEARCH
 <h1>AUTHOR</h1>
 Evans Opindi.
 <h1>DESCRIPTION</h1>
-This website enables users to enter thier GitHub username into a form, submit it, and see names and descriptions of their person's public repositories. A user can also look for repositories
+TThis project is a python application that manages login and signup credentials of a person for various accounts i.e. username and passwords for each account. It also stores the passwords and generates a unique password for a user if they do not want to generate new passwords by themselves.
 <h1>PROJECT SET UP INSTRUCTION</h1>
 # GitSearch
 
