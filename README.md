@@ -18,7 +18,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-:https://evans-o.github.io/Akans-name.github.io/
+:https://evans-o.github.io/git-search/
     </p> 
     <h1>Language used</h1>
     <li>HTML:5</li>
@@ -27,7 +27,7 @@ Run `ng generate component component-name` to generate a new component. You can 
     <li>Css</li>
     <li>Angular</li>
 <h1>Live link.</h1>
-<p>To get into the project visit the following link:https://evans-o.github.io/Akans-name.github.io/ </p>
+<p>To get into the project visit the following link:https://evans-o.github.io/git-search// </p>
 <h1>Copyrights (c) evans.</h1>.
 <p>This website and its content is a copyright of [Portfolio].All right reserved.</p>
 <p>Any redistribution or reproduction of part or all content in any form  is prohibited other than the following:
