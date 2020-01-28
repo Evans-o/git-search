@@ -23,7 +23,6 @@ This website enables users to enter thier GitHub username into a form, submit it
 <li>You may print or download to a local disk for your personal view.</li>
 <li>You may copy the content to individual third parties for their personal view but only if you acknowledge the website as the source of the material.</li>
 </ul>
-<p>You may not,except with my express written permision transmit or store this content in any other website or other form of electronic retrieval system.
 <h1>Contact information:</h1>
 <li>Mobile no:070496675/0740772578</li>
 <li>Email :evansopindi@yahoo.com</li>
