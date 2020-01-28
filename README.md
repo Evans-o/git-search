@@ -25,6 +25,7 @@ Run `ng generate component component-name` to generate a new component. You can 
     <li>JAVASCRIPT:3</li>
     <li>Bootsrap</li>
     <li>Css</li>
+    <li>Angular</li>
 <h1>Live link.</h1>
 <p>To get into the project visit the following link:https://evans-o.github.io/Akans-name.github.io/ </p>
 <h1>Copyrights (c) evans.</h1>.
